@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/portofolio-firdan/static/css/main.75c37153.css",
+    "main.js": "/portofolio-firdan/static/js/main.8778e95a.js",
+    "static/js/787.72f2436a.chunk.js": "/portofolio-firdan/static/js/787.72f2436a.chunk.js",
+    "static/media/pfl.jpg": "/portofolio-firdan/static/media/pfl.e3a259d2121496d90a3c.jpg",
+    "index.html": "/portofolio-firdan/index.html",
+    "main.75c37153.css.map": "/portofolio-firdan/static/css/main.75c37153.css.map",
+    "main.8778e95a.js.map": "/portofolio-firdan/static/js/main.8778e95a.js.map",
+    "787.72f2436a.chunk.js.map": "/portofolio-firdan/static/js/787.72f2436a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.75c37153.css",
+    "static/js/main.8778e95a.js"
+  ]
+}
